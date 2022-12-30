@@ -6,7 +6,7 @@
 | ![image](https://user-images.githubusercontent.com/91855362/210026825-638c1012-3afb-44b7-bc87-fc0464d2a92b.png) |
 
 ## Introduction
-This project is a landing page for a restaurant. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a landing page for a restaurant. You can have a look [here](https://restaurant-website-sage.vercel.app/). It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
